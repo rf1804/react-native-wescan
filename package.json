@@ -1,0 +1,45 @@
+
+{
+  "name": "react-native-wescan",
+  "title": "React Native WeScan",
+  "version": "1.0.0",
+  "description": "React Native Version of IOS WeScan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "rnpm": {
+     "ios": {
+        "sourceDir": "./ios"
+     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rf1804/react-native-wescan.git",
+    "baseUrl": "https://github.com/rf1804/react-native-wescan"
+  },
+  "homepage": "https://github.com/rf1804/react-native-wescan#readme",
+  "bugs": {
+    "url": "https://github.com/rf1804/react-native-wescan/issues"
+  },
+  "keywords": [
+    "react-native",
+    "WeScan",
+    "ios"
+  ],
+  "author": {
+    "name": "Mohamad Arif Raja",
+    "email": "rfraja2943@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.1"
+  },
+  "devDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.1"
+  }
+}
