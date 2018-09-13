@@ -24,7 +24,8 @@
 ```javascript
 import RNWescan from 'react-native-wescan';
 
-// TODO: What to do with the module?
-RNWescan;
+
+RNWescan.scanDocument((response) => {
+  console.log(response) //It will give the private path of the final image
+})
 ```
-  

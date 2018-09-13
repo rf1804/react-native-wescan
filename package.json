@@ -2,8 +2,8 @@
 {
   "name": "react-native-wescan",
   "title": "React Native WeScan",
-  "version": "1.0.0",
-  "description": "React Native Version of IOS WeScan",
+  "version": "1.0.1",
+  "description": "React Native WeScan for IOS, Scan Document with crop functionality",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
