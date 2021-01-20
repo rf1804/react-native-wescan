@@ -2,7 +2,7 @@
 {
   "name": "react-native-wescan",
   "title": "React Native WeScan",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native WeScan for IOS, Scan Document with crop functionality",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rf1804/react-native-wescan.git",
+    "url": "https://github.com/rf1804/react-native-wescan.git",
     "baseUrl": "https://github.com/rf1804/react-native-wescan"
   },
   "homepage": "https://github.com/rf1804/react-native-wescan#readme",
